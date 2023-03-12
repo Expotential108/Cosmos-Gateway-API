@@ -26,9 +26,5 @@ Testing of the rosetta gateway can be performed by:
 - cloning the [cosmos-sdk](https://github.com/cosmos/cosmos-sdk)
 - updating the `cosmos-rosetta-gateway` dependency 
 - and running `make test-rosetta`
-  
-## Resources
 
-- Cosmos SDK: https://github.com/cosmos/cosmos-sdk
-- Coinbase Rosetta API: https://www.rosetta-api.org
 
